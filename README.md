@@ -10,7 +10,7 @@ This project involves the creation of a comprehensive Business Intelligence dash
 ## Key Insights & Features
 - [https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard1?publish=yes]**Sales Trends:** Visualization of monthly revenue to identify seasonal patterns and top 15 brands by revenue.
 - [ https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard2?publish=yes]**Customer Demographics:** Analysis of customer age distribution and payment method preferences.
-- [**https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard3?publish=yes**].
+- [**https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard3?publish=yes**] **Analyzed top-selling models by units sold and identified the most lucrative individual transactions by total revenue. This visualization highlights high-demand inventory and significant sales outliers to optimize overall profitability..
 - [https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard4?publish=yes]**Brand Performance:** Identification of the Top 15 profitable brands and revenue volatility (Variance analysis).
 
 ## Dashboard Components
