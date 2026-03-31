@@ -8,10 +8,10 @@
 This project involves the creation of a comprehensive Business Intelligence dashboard using **Tableau**. The goal was to analyze a mobile sales dataset to extract actionable insights regarding regional performance, customer demographics, and revenue stability.
 
 ## Key Insights & Features
-- [public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard1?publish=yes]**Sales Trends:** Visualization of monthly revenue to identify seasonal patterns and top 15 brands by revenue[cite: 31].
-- [ https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard2?publish=yes]**Customer Demographics:** Analysis of customer age distribution and payment method preferences[cite: 31].
-- [**https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard3?publish=yes**] [cite: 31].
-- [https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard4?publish=yes]**Brand Performance:** Identification of the Top 15 profitable brands and revenue volatility (Variance analysis)[cite: 31].
+- [https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard1?publish=yes]**Sales Trends:** Visualization of monthly revenue to identify seasonal patterns and top 15 brands by revenue.
+- [ https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard2?publish=yes]**Customer Demographics:** Analysis of customer age distribution and payment method preferences.
+- [**https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard3?publish=yes**].
+- [https://public.tableau.com/app/profile/dimitrios.arvanitakis5248/viz/Book1_17748859217980/Dashboard4?publish=yes]**Brand Performance:** Identification of the Top 15 profitable brands and revenue volatility (Variance analysis).
 
 ## Dashboard Components
 1. **Executive Summary:** High-level KPIs including Total Revenue and Units Sold.
